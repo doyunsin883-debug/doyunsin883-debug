@@ -60,8 +60,8 @@ I am an Industrial Engineering student interested in solving real-world problems
 
 SSKL team's ideathon concept for a personalized commerce assistant combining long-term preference memory, cross-platform product comparisons, explainable recommendations, and proactive purchase suggestions. **Project stage: pitch / concept (not a released app).**
 
-- [Project overview](projects/picky-ai-shopping-agent/README.md)
-- [12-slide pitch notes](projects/picky-ai-shopping-agent/docs/PITCH_DECK_NOTES.md)
+- [Standalone Picky repository](https://github.com/doyunsin883-debug/picky-ai-shopping-agent)
+- [Pitch deck PDF & event photos](https://github.com/doyunsin883-debug/picky-ai-shopping-agent/tree/main/docs)
 
 ## Additional Projects
 
