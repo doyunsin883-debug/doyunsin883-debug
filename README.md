@@ -54,6 +54,15 @@ I am an Industrial Engineering student interested in solving real-world problems
 - **Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
 - **Data & Tools:** SQL, MySQL, Git, GitHub, VS Code
 
+## AI Commerce / Entrepreneurship
+
+### Picky — AI Personal Shopping Agent (Future Commerce Challenge 2026)
+
+SSKL team's ideathon concept for a personalized commerce assistant combining long-term preference memory, cross-platform product comparisons, explainable recommendations, and proactive purchase suggestions. **Project stage: pitch / concept (not a released app).**
+
+- [Project overview](projects/picky-ai-shopping-agent/README.md)
+- [12-slide pitch notes](projects/picky-ai-shopping-agent/docs/PITCH_DECK_NOTES.md)
+
 ## Additional Projects
 
 ### LG DACON Quality Classification AI Project
