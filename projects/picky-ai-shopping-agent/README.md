@@ -54,9 +54,14 @@ The supplied event photograph shows the event banner and partner logos. Particip
 
 ## Pitch Materials
 
-See [Pitch Deck Notes (12-slide outline)](docs/PITCH_DECK_NOTES.md).
+- [Original 12-slide pitch deck (PDF)](docs/Picky_Pitch_Deck_2026.pdf)
+- [Pitch Deck Notes — 12-slide outline](docs/PITCH_DECK_NOTES.md)
 
-*Original pitch PDF and event JPG photos are not yet hosted in this GitHub directory; do not treat this text reconstruction as the original slide deck.*
+## Event Photos
+
+![Future Commerce Challenge — AI Commerce Ideathon, November 22, 2026](assets/future-commerce-challenge-2026.jpg)
+
+[Visitor badge (QR code redacted)](assets/event-badge-redacted.jpg)
 
 ## Repository Context
 

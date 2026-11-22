@@ -60,4 +60,4 @@ These are targets, not completed milestones.
 
 ### Event documentation
 
-The provided photos show the **Future Commerce Challenge — AI Commerce Ideathon** event banner on November 22, 2026 at **Google for Startups Campus Seoul**, and an event visitor badge. The original event photographs and pitch PDF are held separately until they can be uploaded to the project directory. No award outcome is stated.
+The provided photos show the **Future Commerce Challenge — AI Commerce Ideathon** event banner on November 22, 2026 at **Google for Startups Campus Seoul**, and an event visitor badge. The original [event banner photo](../assets/future-commerce-challenge-2026.jpg), [redacted visitor badge photo](../assets/event-badge-redacted.jpg), and [12-slide PDF](Picky_Pitch_Deck_2026.pdf) are available in this project directory. No award outcome is stated.
